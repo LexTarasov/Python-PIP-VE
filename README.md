@@ -11,7 +11,7 @@ Python course: PIP and Virtual Enviroments
 > 
 > source env/bin/activate
 > 
-> pip3 install -r requiremets.txt
+> pip3 install -r requirements.txt
 > 
 > python3 main.py
 > ```
